@@ -76,17 +76,17 @@
     },
     "answer": ""
   },
-  {
-    "questionNumber": 8,
-    "question": "Vincent’s chargeable income is RM50,000. He is entitled for a tax relief of RM9,000 with the purchase of an investment linked policy. Based on the structured tax rate, calculate his total tax payable after he has purchased the policy.",
-    "options": {
-      "A": "RM 1,260",
-      "B": "RM 1,660",
-      "C": "RM 1,860",
-      "D": "RM 1,960"
-    },
-    "answer": ""
+{
+  "questionNumber": 8,
+  "question": "The following table illustrates Vincent’s chargeable income and corresponding tax computation:\n\nChargeable Income (RM): 35,000 – 50,000\nStructured Rate:\n- First RM35,000: Tax = RM1,200\n- Next RM15,000 (11%): Tax = RM1,650\nTotal Tax Payable (before relief): RM2,850\n\nVincent is entitled to a tax relief of RM9,000 with the purchase of an investment-linked policy. Calculate his total tax payable after he has purchased the policy.",
+  "options": {
+    "A": "RM 1,260",
+    "B": "RM 1,660",
+    "C": "RM 1,860",
+    "D": "RM 1,960"
   },
+  "answer": ""
+},
   {
     "questionNumber": 9,
     "question": "Select the correct statement for top-ups on a single premium investment linked policy.",
