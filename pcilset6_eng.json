@@ -218,6 +218,336 @@
       "D": "Purchasing a futures contract"
     },
     "answer": ""
+  },
+  {
+    "questionNumber": 21,
+    "question": "The following are statement regarding regular premium investment linked life insurance. Choose the correct one.\nI. The death benefit is the basic sum assured or the accrued account value, whichever is higher.\nII. Dual pricing refers to the bid-offer spread, which is normally a 10% difference.\nIII. Policy owners are encouraged to adopt the long -term view to leverage the cumulative effect both from protection and investment perspectives.\nIV. The no-lapse guarantee is only for the first few years.",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "II and III",
+      "D": "III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 22,
+    "question": "Below are risks versus returns of investment linked funds. Choose the correct statement.\nI. Derivative funds are higher risk than equity funds\nII. Property funds are lower risk than managed funds\nIII. Cash funds are lower risk than bond funds\nIV. Property funds are higher risk than balanced funds",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, III and IV",
+      "C": "II, III and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 23,
+    "question": "The valuation of units shall be carried out __________ as mentioned in the Bank Negara Guidelines on Investment Linked Business.",
+    "options": {
+      "A": "every business day",
+      "B": "once every week",
+      "C": "once every month",
+      "D": "once every year"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 24,
+    "question": "Choose the correct statement.",
+    "options": {
+      "A": "insurers are responsible to pay a claim in any circumstances even in the event that the policy owner has acted irresponsibly",
+      "B": "agents are expected to upgrade their knowledge and professionalism themselves",
+      "C": "the responsibility of ensuring agents are knowledgeable and professional does not lie on the insurer",
+      "D": "agents are expected to adopt a professional approach in order to serve as sound advisors on the right plan and right funds to help to suit customers risk profile, needs and goals."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 25,
+    "question": "Clients must be told that there is a _______ trade-off and they must be able to accept this before venturing into such investment.",
+    "options": {
+      "A": "low - high",
+      "B": "buy - sell",
+      "C": "risk - return",
+      "D": "offer - acceptance"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 26,
+    "question": "Select the correct statement with regards to shares.",
+    "options": {
+      "A": "these are unsecured loans to a company. Both the interest rate and the term are fixed.",
+      "B": "the security is either a fixed charge on the company’s property or some of its assets such as trading stock",
+      "C": "the shareholders control the company through the fact that basically each share carries one vote at company meetings",
+      "D": "the investor can convert his investment from a fixed interest loan to being a part-owner and be entitled for the company’s profit."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 27,
+    "question": "Which of the following is subject matter of insurance in a life or personal accident policy?",
+    "options": {
+      "A": "Funeral expenses",
+      "B": "Life and limb",
+      "C": "Medical cost and expenses",
+      "D": "Salaries and wages"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 28,
+    "question": "One of the excluded perils in a personal accident policy is _______.",
+    "options": {
+      "A": "Illness",
+      "B": "Food poisoning",
+      "C": "Snake bite",
+      "D": "Drowning"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 29,
+    "question": "Identify one difference between an insurance broker and an insurance agent.",
+    "options": {
+      "A": "An insurance agent acts on behalf of the insurer to solicit new business whereas an insurance broker represents his client’s interest.",
+      "B": "An insurance agent represents the best interests of his customers whereas the insurance broker acts on behalf of the insurer.",
+      "C": "An insurance agent receives commissions whereas an insurance broker is paid a brokerage fee by his customers.",
+      "D": "An insurance agent is independent while an insurance broker is employed by an insurance company."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 30,
+    "question": "What is the difference between insurance and gambling?",
+    "options": {
+      "A": "insurable risks whose financial value is measurable",
+      "B": "insurable interest in the subject matter insured",
+      "C": "inevitable losses beyond the control of the insured",
+      "D": "homogenous or similar risk in large numbers"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 31,
+    "question": "Three basic steps in risk management are ______.",
+    "options": {
+      "A": "Identify, Analyse and Control",
+      "B": "Plan, Strategize and Implement",
+      "C": "Strategize, Manage and Control",
+      "D": "Analyze, Plan and Implement"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 32,
+    "question": "When a person decides not to own a car to avoid having his car stolen, his method of handling risks is called ______.",
+    "options": {
+      "A": "loss control",
+      "B": "transfer",
+      "C": "retention",
+      "D": "avoidance"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 33,
+    "question": "A peril is the ________ of a loss.",
+    "options": {
+      "A": "certainty",
+      "B": "control",
+      "C": "cause",
+      "D": "chance"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 34,
+    "question": "With insurance, individuals are committed to _______ by putting aside funds for retirement and old age.",
+    "options": {
+      "A": "compelled savings",
+      "B": "long life",
+      "C": "investment returns",
+      "D": "good health"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 35,
+    "question": "First stage in Risk Management is _______.",
+    "options": {
+      "A": "analysis",
+      "B": "control",
+      "C": "transfer",
+      "D": "identification"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 36,
+    "question": "Under a consumer contract, an individual complies with the duty of disclosure by _____.",
+    "options": {
+      "A": "answering all questions in the proposal form fully and faithfully",
+      "B": "disclosing information that is of common knowledge",
+      "C": "providing incomplete answers to specific questions in the proposal form",
+      "D": "volunteering useful information pertaining to the risk"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 37,
+    "question": "Which of the following is not a contract of indemnity?",
+    "options": {
+      "A": "liability",
+      "B": "fire",
+      "C": "medical and health",
+      "D": "personal accident"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 38,
+    "question": "Azizah broke her leg in an accident and was hospitalized but died in hospital due to Covid 19 contracted from other patients. The insurer will decline the death claim under her personal accident policy due to the application of the principle of ______.",
+    "options": {
+      "A": "contribution",
+      "B": "indemnity",
+      "C": "proximate cause",
+      "D": "insurable interest"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 39,
+    "question": "Duty of disclosure does not require an insured to disclose a fact that _______.",
+    "options": {
+      "A": "diminishes the risk to the insurer",
+      "B": "influences the decision in acceptance of the risk",
+      "C": "affects insurer’s rating of the risk",
+      "D": "increases the risk to the insurer"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 40,
+    "question": "Purpose of the Complaints Unit set up by Financial Service Providers is _______.",
+    "options": {
+      "A": "to provide customers with financial advice on insurance products",
+      "B": "to provide customers with easy access to lodge complaints",
+      "C": "to provide agents with access to lodge complaints against staff",
+      "D": "to provide free counselling and training for insurance agents"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 41,
+    "question": "Which of the following is not a reason why insurers are regulated?",
+    "options": {
+      "A": "to address adequate insurance knowledge",
+      "B": "protect consumer",
+      "C": "to ensure the insurer solvent",
+      "D": "promote financial stability"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 42,
+    "question": "Primary objectives of the Financial Service Act 2013 (FSA) and the Islamic Services Act 2013 (IFSA) is:\nI. To strengthen business conduct and consumer protection\nII. To provide differentiated regulatory requirements that reflect the nature of financial intermediation activities and their risks to the overall financial system.\nIII. To regulate financial holding companies and non-regulated entities\nIV. To strengthen provisions for effective and early enforcement and supervisory intervention",
+    "options": {
+      "A": "I and II",
+      "B": "II and III",
+      "C": "I, II and III",
+      "D": "I, II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 43,
+    "question": "Which of the following is the legal form of insurance prescribed by the Road Transport Act 1987.",
+    "options": {
+      "A": "policy document",
+      "B": "certificate of insurance",
+      "C": "acceptance letter",
+      "D": "cover note"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 44,
+    "question": "Which one of the following is a key characteristic for a contract to be considered legally binding?",
+    "options": {
+      "A": "mutual agreement arising out of goodwill",
+      "B": "intention to create a legal relationship",
+      "C": "seal and stamped on the written document",
+      "D": "freedom to contract by all parties"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 45,
+    "question": "One of the reasons for the importance of the policy terms and conditions in a contract of insurance is:",
+    "options": {
+      "A": "To exclude fundamental risk such as war and terrorism",
+      "B": "to ensure the insured understands the nature of the policy cover and its limitations",
+      "C": "to enable the insured to buy back excluded perils by way of endorsement",
+      "D": "to ensure the parties to the contract understand their respective duties, rights and obligations"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 46,
+    "question": "In Malaysia, insurers are corporations formed and registered under the Companies Act 1965 as:",
+    "options": {
+      "A": "Private Limited Companies",
+      "B": "Public Limited Companies",
+      "C": "Public Listed Companies",
+      "D": "Private Listed Companies"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 47,
+    "question": "A contract of agency can NOT be terminated:",
+    "options": {
+      "A": "by the notice of revocation by the principal",
+      "B": "upon expiry of the contract period",
+      "C": "by the agent giving notice of temporary absence",
+      "D": "by operation of a law that renders the contract illegal"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 48,
+    "question": "A principal is bound not only by acts which are within the actual authority of the agent but also by acts on the grounds of:",
+    "options": {
+      "A": "implied authority",
+      "B": "express authority",
+      "C": "actual authority",
+      "D": "apparent authority"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 49,
+    "question": "The main duty of the principal to an insurance agent is to:",
+    "options": {
+      "A": "provide tips on sales and marketing",
+      "B": "pay the agreed remuneration",
+      "C": "equip the agent with adequate tool of the trade",
+      "D": "provide the policy and procedure manual"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 50,
+    "question": "In Malaysia, insurance agencies are created:",
+    "options": {
+      "A": "only through appointment by express agreement",
+      "B": "by implied agreement",
+      "C": "through the creation of agency of necessity",
+      "D": "through agency by ratification"
+    },
+    "answer": ""
   }
 ]
   
